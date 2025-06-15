@@ -1,0 +1,4 @@
+# BotpyTelegramBotAPI
+pytesseract
+Pillow
+opencv-pythontx
