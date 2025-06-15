@@ -4,7 +4,7 @@ import telebot import pytesseract from PIL import Image import cv2 import random
 
 Cấu hình token Telegram Bot (bạn thay bằng token của bạn)
 
-TOKEN = "YOUR_BOT_TOKEN_HERE" bot = telebot.TeleBot(TOKEN)
+TOKEN = "7577641562:AAFX0ZPJye2Y5lYtZJ6cJlNO249qOLxWI2w" bot = telebot.TeleBot(TOKEN)
 
 ======== HÀM PHÂN TÍCH ========
 
